@@ -4,7 +4,7 @@
 //
 //  Created by Enric Izquierdo on 16/10/15.
 //  Copyright © 2015 Enric Izquierdo. All rights reserved.
-//Here is a view controller
+//
 
 import UIKit
 import AVFoundation
